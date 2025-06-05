@@ -8,4 +8,6 @@ This experience has sparked my curiosity about Docker and its potential. I plan 
 
 On how this works, 
 
-type in the directory root "php artisan serve"
+1. Open Xampp for myphpadmin
+
+2. type in the directory root "php artisan serve"
